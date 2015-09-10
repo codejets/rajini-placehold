@@ -1,0 +1,22 @@
+{
+  "name": "rajini-placehold",
+  "version": "1.0.0",
+  "description": "Ranjini Placeholders",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rajini-placehold"
+  },
+  "keywords": [
+    "ranjini",
+    "placeholders"
+  ],
+  "author": "Mukesh KR/Codejets <codejets@gmail.com> (http://codejets.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "3.9.0"
+  }
+}
